@@ -1,0 +1,63 @@
+[
+    {
+        "cityID" : 1,
+        "photo" : "/src/assets/baltimore.jpg",
+        "city" : "Baltimore, Maryland",
+        "difficulty" : "medium"
+    },
+    {
+        "cityID" : 2,
+        "photo" : "/src/assets/boston.jpg",
+        "city" : "Boston, Massachusetts",
+        "difficulty" : "easy"
+    },
+    {
+        "cityID" : 3,
+        "photo" : "/src/assets/buffalo.jpg",
+        "city" : "Buffalo, New York",
+        "difficulty" : "hard"
+    },
+    {
+        "cityID" : 4,
+        "photo" : "/src/assets/newark.jpg",
+        "city" : "Newark, New Jersey",
+        "difficulty" : "hard"
+    },
+    {
+        "cityID" : 5,
+        "photo" : "/src/assets/newHaven.jpg",
+        "city" : "New Haven, Connecticut",
+        "difficulty" : "hard"
+    },
+    {
+        "cityID" : 6,
+        "photo" : "/src/assets/philadelphia.jpg",
+        "city" : "Philadelphia, Pennsylvania",
+        "difficulty" : "easy"
+    },
+    {
+        "cityID" : 7,
+        "photo" : "/src/assets/pittsburgh.jpg",
+        "city" : "Pittsburgh, Pennsylvania",
+        "difficulty" : "medium"
+    },
+    {
+        "cityID" : 8,
+        "photo" : "/src/assets/providence.jpg",
+        "city" : "Providence, Rhode Island",
+        "difficulty" : "medium"
+    },
+    {
+        "cityID" : 9,
+        "photo" : "/src/assets/rochester.jpg",
+        "city" : "Rochester, New York",
+        "difficulty" : "hard"
+    },
+    {
+        "cityID" : 10,
+        "photo" : "/src/assets/newYork.jpg",
+        "city" : "New York, New York",
+        "difficulty" : "easy"
+    }
+
+]
