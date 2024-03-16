@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Car Show*
+# Web Development Projects 2 and 3 - *Guess the City*
 
 Submitted by: **Devon Wallerson**
 
