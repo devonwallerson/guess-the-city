@@ -28,6 +28,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented required features:
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/LwJVvHZ"  ><a href="//imgur.com/a/LwJVvHZ">week2codepath</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/3l0Nk3G" data-context="false" ><a href="//imgur.com/a/3l0Nk3G"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 GIF created with imgur  
 
 ## Notes
